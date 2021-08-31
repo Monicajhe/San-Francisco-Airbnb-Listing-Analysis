@@ -1,5 +1,7 @@
-**Scenario: **  
-- Assuming I have additional cash that I'd like to invest in another property in San Francisco as a vacation house and list the house on Airbnb when not in use. As an inspiring data analyst, I want to do my own research before seeking advice from a real estate agent. 
+
+**Scenario:**
+
+Assuming I have additional cash that I'd like to invest in another property in San Francisco as a vacation house and list the house on Airbnb when not in use. As an inspiring data analyst, I want to do my own research before seeking advice from a real estate agent. 
 
 **Issues/Hypotheses to Explore:**
 - Trend in number of listings and price over the year.
